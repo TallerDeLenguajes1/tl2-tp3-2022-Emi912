@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tl2-tp3-2022-Emi912/1.0.0": {
+        "runtime": {
+          "tl2-tp3-2022-Emi912.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tl2-tp3-2022-Emi912/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
